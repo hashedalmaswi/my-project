@@ -51,7 +51,7 @@ class AboutPage extends StatelessWidget {
                 const SizedBox(height: 8),
                 const Text(
                   '   طرق التشفير المختلف( Base64، Caesar) '
-                      'مع     وإعدادات تخصيص.',
+                      '     وإعدادات تخصيص.',
                 ),
                 const SizedBox(height: 12),
                 Wrap(
