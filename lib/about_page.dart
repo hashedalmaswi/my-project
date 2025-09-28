@@ -68,7 +68,7 @@ class AboutPage extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 12),
-          _tile(Icons.shield, 'تنبيه أمني',
+          _tile(Icons.shield, ' أمني',
               'هذا التطبيق  تعليمية. في الاج يجب  المفاتيح على الخادم، واستخدام IV عشوائي لكل رسالة، وتطبيق سياسات أمنية مشددة.',
               color: Colors.red),
           _tile(Icons.code, 'الإصدار', 'v1.0.0 (Academic Demo)'),
