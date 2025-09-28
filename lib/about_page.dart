@@ -51,7 +51,7 @@ class AboutPage extends StatelessWidget {
                 const SizedBox(height: 8),
                 const Text(
                   '      (  Caesar) '
-                      'مع واجهة     .',
+                      'مع      .',
                 ),
                 const SizedBox(height: 12),
                 Wrap(
