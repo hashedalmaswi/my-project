@@ -51,7 +51,7 @@ class AboutPage extends StatelessWidget {
                 const SizedBox(height: 8),
                 const Text(
                   'تطبعليمي متقدم يوضح طرق التشفير المختلفة (AES، Base64، Caesar) '
-                      'مع واجهة أنيقة وسجل عمليات وإعدادات تخصيص.',
+                      'مع واجهة أنيقة  عمليات وإعدادات تخصيص.',
                 ),
                 const SizedBox(height: 12),
                 Wrap(
