@@ -51,7 +51,7 @@ class AboutPage extends StatelessWidget {
                 const SizedBox(height: 8),
                 const Text(
                   '    التشفير المختلف(  Caesar) '
-                      '     وإعدادات تخصيص.',
+                      '      تخصيص.',
                 ),
                 const SizedBox(height: 12),
                 Wrap(
