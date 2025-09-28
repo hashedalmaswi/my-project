@@ -50,15 +50,15 @@ class AboutPage extends StatelessWidget {
                 Text('SecureApp', style: Theme.of(context).textTheme.headlineSmall),
                 const SizedBox(height: 8),
                 const Text(
-                  '  يوضح طرق التشفير المختلفة (AES، Base64، Caesar) '
-                      'مع واجهة   عمليات وإعدادات تخصيص.',
+                  '      (  Caesar) '
+                      'مع      .',
                 ),
                 const SizedBox(height: 12),
                 Wrap(
                   spacing: 8,
                   runSpacing: 8,
                   children: [
-                    _badge('Flutter', Colors.blue),
+                    _badge('', Colors.blue),
                     _badge('Dart', Colors.teal),
                     _badge('Encrypt', Colors.indigo),
                     _badge('SharedPrefs', Colors.orange),
