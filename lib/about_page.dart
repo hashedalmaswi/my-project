@@ -60,7 +60,7 @@ class AboutPage extends StatelessWidget {
                   children: [
                     _badge('', Colors.blue),
                     _badge('Dart', Colors.teal),
-                    _badge('Encrypt', Colors.indigo),
+                    _badge('', Colors.indigo),
                     _badge('SharedPrefs', Colors.orange),
                   ],
                 ),
