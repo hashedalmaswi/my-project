@@ -58,7 +58,7 @@ class AboutPage extends StatelessWidget {
                   spacing: 8,
                   runSpacing: 8,
                   children: [
-                    _badge('Flutter', Colors.blue),
+                    _badge('', Colors.blue),
                     _badge('Dart', Colors.teal),
                     _badge('Encrypt', Colors.indigo),
                     _badge('SharedPrefs', Colors.orange),
