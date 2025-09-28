@@ -50,7 +50,7 @@ class AboutPage extends StatelessWidget {
                 Text('SecureApp', style: Theme.of(context).textTheme.headlineSmall),
                 const SizedBox(height: 8),
                 const Text(
-                  '  يوضح طرق التشفير المختلفة (AES، Base64، Caesar) '
+                  '  يوضح  التشفير المختلفة (AES، Base64، Caesar) '
                       'مع واجهة   عمليات وإعدادات تخصيص.',
                 ),
                 const SizedBox(height: 12),
