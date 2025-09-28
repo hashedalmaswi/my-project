@@ -50,7 +50,7 @@ class AboutPage extends StatelessWidget {
                 Text('SecureApp', style: Theme.of(context).textTheme.headlineSmall),
                 const SizedBox(height: 8),
                 const Text(
-                  '    التشفير المختلف(  Caesar) '
+                  '    التشفير المختلف(  ) '
                       '      تخصيص.',
                 ),
                 const SizedBox(height: 12),
